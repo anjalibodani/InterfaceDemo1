@@ -1,0 +1,11 @@
+C:\Users\Anjali Bodani\source\repos\InterfaceDemo\InterfaceDemo\bin\Debug\netcoreapp3.1\InterfaceDemo.exe
+C:\Users\Anjali Bodani\source\repos\InterfaceDemo\InterfaceDemo\bin\Debug\netcoreapp3.1\InterfaceDemo.deps.json
+C:\Users\Anjali Bodani\source\repos\InterfaceDemo\InterfaceDemo\bin\Debug\netcoreapp3.1\InterfaceDemo.runtimeconfig.json
+C:\Users\Anjali Bodani\source\repos\InterfaceDemo\InterfaceDemo\bin\Debug\netcoreapp3.1\InterfaceDemo.runtimeconfig.dev.json
+C:\Users\Anjali Bodani\source\repos\InterfaceDemo\InterfaceDemo\bin\Debug\netcoreapp3.1\InterfaceDemo.dll
+C:\Users\Anjali Bodani\source\repos\InterfaceDemo\InterfaceDemo\bin\Debug\netcoreapp3.1\InterfaceDemo.pdb
+C:\Users\Anjali Bodani\source\repos\InterfaceDemo\InterfaceDemo\obj\Debug\netcoreapp3.1\InterfaceDemo.csprojAssemblyReference.cache
+C:\Users\Anjali Bodani\source\repos\InterfaceDemo\InterfaceDemo\obj\Debug\netcoreapp3.1\InterfaceDemo.AssemblyInfoInputs.cache
+C:\Users\Anjali Bodani\source\repos\InterfaceDemo\InterfaceDemo\obj\Debug\netcoreapp3.1\InterfaceDemo.AssemblyInfo.cs
+C:\Users\Anjali Bodani\source\repos\InterfaceDemo\InterfaceDemo\obj\Debug\netcoreapp3.1\InterfaceDemo.dll
+C:\Users\Anjali Bodani\source\repos\InterfaceDemo\InterfaceDemo\obj\Debug\netcoreapp3.1\InterfaceDemo.pdb
